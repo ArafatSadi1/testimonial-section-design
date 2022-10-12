@@ -221,7 +221,6 @@ button {
     margin-left: 70px;
   }
   .testimonial_title {
-    width: 45%;
     font-size: 30px;
   }
   .testimonial_btn {
@@ -230,21 +229,15 @@ button {
     font-size: 15px;
     margin-top: 34px;
   }
-  .testimonial_cards_wrapper {
-    width: 83%;
-    margin-left: 35vw;
-  }
   .splide__pagination {
     margin: 30px 0px 60px 15vw;
   }
   .splide__pagination__page {
     width: 24px;
-    height: 3px;
     margin: 0px 9px;
   }
   .testimonial_card {
     padding: 22px 10px;
-    border-radius: 12px;
   }
   .testimonial_card_img {
     width: 44px;
@@ -280,7 +273,6 @@ button {
     margin-left: 30px;
   }
   .testimonial_title {
-    width: 45%;
     font-size: 24px;
     line-height: 36px;
   }
@@ -295,18 +287,11 @@ button {
     margin-left: 31vw;
   }
   .splide__pagination {
-    margin: 30px 0vw 60px 0;
     justify-content: start;
-  }
-  .splide__pagination__page {
-    width: 24px;
-    height: 3px;
-    margin: 0px 9px;
   }
   .testimonial_card {
     width: 370px;
     padding: 44px 16px;
-    border-radius: 12px;
   }
   .testimonial_card_img {
     width: 54px;
@@ -353,12 +338,10 @@ button {
     margin-top: 20px;
   }
   .testimonial_cards_wrapper {
-    width: 80%;
     margin-left: 27vw;
   }
   .splide__pagination {
     margin: 20px 0vw 40px 0;
-    justify-content: start;
   }
   .splide__pagination__page {
     width: 20px;
@@ -405,19 +388,6 @@ button {
     width: 50%;
     font-size: 18px;
     line-height: 24px;
-  }
-  .testimonial_cards_wrapper {
-    width: 80%;
-    margin-left: 27vw;
-  }
-  .splide__pagination {
-    margin: 20px 0vw 40px 0;
-    justify-content: start;
-  }
-  .splide__pagination__page {
-    width: 20px;
-    height: 2px;
-    margin: 0px 7px;
   }
   .testimonial_card {
     width: 270px;
